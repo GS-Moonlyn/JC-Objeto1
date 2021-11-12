@@ -8,4 +8,3 @@ public class mainApp {
 		System.out.println("Teste");
 	}
 }
-int Classe01 
